@@ -21,6 +21,20 @@ p{
     color: hotpink;
     
 }
+p:hover {
+    color:#00FFBF;
+}
+div ,a {
+    text-decoration: none;
+    color: black;
+    font-size: 3rem;
+    border : 2.5px solid transparent;
+}
+div ,a:hover{
+    color : #007FFF;
+    
+}
+
     
 
 
